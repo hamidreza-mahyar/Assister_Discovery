@@ -1,0 +1,19 @@
+name: nextai
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.7
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - jupyter
+  - nbstripout
+  - seaborn
+  - scikit-learn
+  - scikit-optimize
+  - tqdm
+  - future
+  - pytorch
+  - torchvision

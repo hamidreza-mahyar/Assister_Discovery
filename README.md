@@ -6,10 +6,13 @@
 - `numpy`
 - `scipy`
 - `Tensorflow`
-- `tensorflow-hub`
+- `tensorflow_hub`
 - `seaborn`
+- `matplotlib`
 - `pandas`
 - `sklearn`
 - `jupyter`
 
+## Jupyter Notebook
 
+Please check `Assister_Discovery.ipynb` 

@@ -1,6 +1,7 @@
 name: assisterai
 channels:
   - conda-forge
+  - pytorch
 dependencies:
   - python=3.6
   - numpy
@@ -16,3 +17,6 @@ dependencies:
   - future
   - tensorflow
   - tensorflow-hub
+  - pytorch
+  - torchvision
+  - flair
